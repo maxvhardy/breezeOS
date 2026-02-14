@@ -1,6 +1,10 @@
 ## Computer go brrrrrr
 ## DoorOS
 
+
+NOTE: Big Update is not the newest version, it is the first version. It's just named that because I forgot to change it.
+
+
 DoorOS is a 64-bit operating system built from scratch.
 
 It’s written in C and Assembly.
